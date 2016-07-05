@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void navigate() {
         Intent intent = new Intent(this, MainActivity.class);
+        intent.putExtra("a", "data");
         startActivity(intent);
     }
 }
