@@ -11,9 +11,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setUpView();
+
+        setupSecondView();
     }
 
     private void setUpView() {
+
+    }
+
+    private void setupSecondView() {
 
     }
 }
