@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         setupSecondView();
 
         setupThirdView();
+
+        test();
     }
 
     private void setUpView() {
@@ -33,6 +35,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupThirdView() {
+        
+    }
+
+    private void test() {
         
     }
 }
