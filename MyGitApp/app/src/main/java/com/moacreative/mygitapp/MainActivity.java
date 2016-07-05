@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupSecondView() {
-
+        //set up views
     }
 }
