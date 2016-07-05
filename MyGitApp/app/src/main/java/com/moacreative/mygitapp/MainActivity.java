@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setUpView();
 
         setupSecondView();
+
+        setupThirdView();
     }
 
     private void setUpView() {
