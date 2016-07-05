@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setUpView();
+
+        setupSecondView();
     }
 
     private void setUpView() {
@@ -22,5 +24,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity.class);
         intent.putExtra("a", "data");
         startActivity(intent);
+    }
+
+    private void setupSecondView() {
+        //set up views
     }
 }
