@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void second() {
+        modifyThird();
+    }
+
+    private void modifyThird() {
         
     }
 }
