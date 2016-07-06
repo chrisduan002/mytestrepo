@@ -43,6 +43,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void anotherTest() {
+        first();
+    }
+
+    private void first() {
         
     }
 }
