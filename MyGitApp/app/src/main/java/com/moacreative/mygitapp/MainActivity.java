@@ -47,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void first() {
+        second();
+    }
+
+    private void second() {
         
     }
 }
