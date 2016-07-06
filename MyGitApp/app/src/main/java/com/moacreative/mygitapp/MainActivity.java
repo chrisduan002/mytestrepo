@@ -51,10 +51,17 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void second() {
+<<<<<<< HEAD
         modifyThird();
     }
 
     private void modifyThird() {
+=======
+        third();
+    }
+
+    private void third() {
+>>>>>>> f629b6582e3720907b364f48c7a8873225b8a921
         
     }
 }
